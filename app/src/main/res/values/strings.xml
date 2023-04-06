@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRepo01</string>
+    <string name="navigate_to_secondary_activity">Navigate to secondary activity</string>
+    <string name="zero">0</string>
+    <string name="press_me_button">Press Me!</string>
+    <string name="press_me_too_button">Press Me, Too!</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
